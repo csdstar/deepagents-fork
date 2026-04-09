@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.0.2](https://github.com/csdstar/deepagents-fork/compare/langchain-repl==0.0.1...langchain-repl==0.0.2) (2026-04-09)
+
+
+### Features
+
+* **repl:** add minimal repl for testing purposes ([#2482](https://github.com/csdstar/deepagents-fork/issues/2482)) ([dda01a1](https://github.com/csdstar/deepagents-fork/commit/dda01a132a81b7f9ffd223406c7370d06d51d94e))
+
+## Changelog
+
 ---
 
 ## Prior Releases
